@@ -1,3 +1,6 @@
+*{
+    colour: #edf756;
+}
 body {
     background-image: url('pexels-mike-sember-6043246.jpg');
     background-repeat: no-repeat;
@@ -55,7 +58,6 @@ tr:nth-child(even),  table.list thread>tr {
  input[type="reset"]:hover {
      background: #4b99d8;
  }
-
  button:hover {
     background: #4b99d8;
  }
